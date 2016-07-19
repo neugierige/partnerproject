@@ -1,0 +1,12 @@
+PODS:
+  - SevenSwitch (2.0.0)
+
+DEPENDENCIES:
+  - SevenSwitch
+
+SPEC CHECKSUMS:
+  SevenSwitch: 4ae92ffcad0ef93b38553b39a25e753c94eb7847
+
+PODFILE CHECKSUM: 81641e2911b14c19fb0df28b1a672f67783b6bfe
+
+COCOAPODS: 1.0.1
